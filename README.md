@@ -1,5 +1,5 @@
 # Excel_DataAnalysis_Dashboard
-Created a dynamic dashboard using Excel to analyis the road accident data and provide meaningful insights.
+Created a dynamic dashboard using Excel to analyse the road accident data and provide meaningful insights.
 
 Steps Covered-
 1. Requirement gathering from client
